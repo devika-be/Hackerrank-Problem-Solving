@@ -1,7 +1,6 @@
 #Problem Link : https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 #Ans:
-
 #!/bin/python3
 
 import math
